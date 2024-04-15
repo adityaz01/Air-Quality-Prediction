@@ -1,8 +1,8 @@
 # Air-Quality-Prediction
-# GOAL
+ **GOAL**
 The goal of this project is to predict Air Quality Index (AQI ) form features as particulate matter (PM2.5 and PM10), Nitrogen Oxide (NO), Nitric Dioxide (NO2), Carbon Monoxide (CO), Sulphur Dioxide (SO2), Ozone (O3) etc.
 
-# WHAT I HAD DONE
+__WHAT I HAD DONE__
 Step 1: Data Exploration
 Step 2: Data Cleaning
 Step 3: Data visualization
@@ -10,20 +10,20 @@ Step 4: Data training
 Step 5: Model Creation
 Step 6: Performance Evaluation
 
-# MODELS USED
+__MODELS USED__
 Linear Regression
 Lasso Regression
 Ridge Regression
 Decision Tree Regressor
 
-# LIBRARIES NEEDED
+__LIBRARIES NEEDED__
 pandas
 numpy
 matplotlib
 seaborn
 sklearn (For data traning, importing models and performance check)
 
-# CONCLUSION
+__CONCLUSION__
 By using Linear Regression model
    Accuracy achieved :  78.71
 By using Lasso Regression model
